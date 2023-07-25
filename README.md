@@ -1,0 +1,2 @@
+# telephone_directory
+I developed a Python-based Telephone Directory for data entry, showcasing my skills in programming, data handling, and GUI development. The user-friendly application allows for efficient storage, retrieval, and management of contact information, demonstrating my attention to detail and technical abilities. It features data validation, search functionality, and the ability to edit or delete entries.
