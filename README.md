@@ -21,7 +21,3 @@ MAIN MENU
   6. Exit
 
 Enter Your Choice(1~6):
-Enter Name to search :
-Enter Name to modify :
-Enter Name to delete :
-
