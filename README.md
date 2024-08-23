@@ -18,7 +18,7 @@ MAIN MENU
 
   1. New Customer
   2. Display all 
-  3. Search a telephone No. to Withdraw Amount
+  3. Search a telephone No.
   4. Modify Telephone No. 
   5. Delete Telphone No.
   6. Exit
@@ -32,4 +32,3 @@ Enter Name to modify :
 Enter Name to delete :
 
 Input correct choice...(1-6)
-
