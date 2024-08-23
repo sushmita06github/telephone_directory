@@ -173,8 +173,8 @@ def display_all():
 def intro():
     print ("\n\n\tTELEPHONE DIRECTORY")
     print ("\n\tMANAGEMENT")
-    print ("\n\n\nMADE BY : Enter your name")
-    print ("\nSCHOOL : Enter your school name")
+    print ("\n\n\nMADE BY : Sushmita Hansda")
+    print ("\nSCHOOL : Kendriya Vidyalaya Bilaspur CG")
 
 
 """*****************************************************************************
@@ -189,14 +189,14 @@ while True:
 
     1. New Customer
     2. Display all 
-    3. Search a telephone No.Withdraw Amount
+    3. Search a telephone No. 
     4. Modify Telephone No. 
-    5. Delete Telphone No.
+    5. Delete Telephone No.
     6. Exit
     """)
 
     try:
-        ch=int(input("Enter Your Choice(1~8): "))
+        ch=int(input("Enter Your Choice(1~6): "))
         if ch==1:
             write_tele()
         
@@ -219,7 +219,7 @@ while True:
             break
 
         else:
-            print ("Input correcr choice...(1-8)")
+            print ("Input correcr choice...(1-6)")
 
     except NameError:
         print ("Input correct choice...(1-6)")
