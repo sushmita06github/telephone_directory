@@ -5,8 +5,11 @@ This is my First School Project.
 
 # Output
 TELEPHONE DIRECTORY
+
 MANAGEMENT
+
 MADE BY : Sushmita Hansda
+
 SCHOOL : Kendriya Vidyalaya Bilaspur CG
 
 =======================================================================
